@@ -1,38 +1,47 @@
-# Help
+# Помощь
 
-The **Help** section of the **Zennio Remote** app provides access to essential resources for resolving questions.
-
-------
-
-## Access the Help Window
-
-To access the Help window, the user must:
-
-1. Click on the menu located in the upper left corner of the screen.
-2. Select the **Help** option.
+Раздел **Помощь** в приложении **Zennio Remote** предоставляет доступ к основным ресурсам для решения вопросов.
 
 ------
 
-## Available Content
+## Открытие окна «Помощь»
 
-Inside the **Help** window,, the user will find the following sections, divided between **Zennio Remote** and **ZenVoice**:
+Чтобы открыть окно «Помощь», пользователю необходимо:
+
+1. Нажать на меню, расположенное в верхнем левом углу экрана.
+2. Выбрать опцию **«Помощь»**.
+
+------
+
+## Доступное содержимое
+
+В окне **«Помощь»** пользователь найдёт следующие разделы, разделённые между **Zennio Remote** и **ZenVoice**:
 
 ### Zennio Remote
 
-- **Tutorial**:
-  Provides access to an integrated pairing tutorial within the app.
-- **User Manual**:
-  The user is redirected to this manual, providing detailed information about the application's features.
+- Руководство:
 
-![help_zr-655c03cc0f08072c99957b4f25e3685a.png](../images/help_zr-655c03cc0f08072c99957b4f25e3685a.png)
+  Предоставляет доступ к встроенному в приложение руководству по сопряжению.
+
+- Руководство пользователя:
+
+  Пользователь перенаправляется на это руководство, которое содержит подробную информацию о функциях приложения.
+
+  <img src="../images/help_zr-655c03cc0f08072c99957b4f25e3685a.png" alt="help_zr-655c03cc0f08072c99957b4f25e3685a.png" style="zoom: 67%;" />
 
 ### ZenVoice
 
-- **User Guide**:
-  Offers the option to download a detailed document that describes all of ZenVoice's features and usage.
-- **User Manual**:
-  The user is redirected to this manual, providing detailed information about the application's features.
-- **FAQs**:
-  Provides access to frequently asked questions related to the setup and use of ZenVoice.
+- Руководство пользователя:
 
-![help_zv-fe48861faf4024858f7f638eb0bc4c96](../images/help_zv-fe48861faf4024858f7f638eb0bc4c96.png)
+  Предлагает возможность загрузить подробный документ, описывающий все функции и использование ZenVoice.
+
+- Руководство пользователя:
+
+  Пользователь перенаправляется на это руководство, которое содержит подробную информацию о функциях приложения.
+
+- Часто задаваемые вопросы (FAQs):
+
+  Предоставляет доступ к часто задаваемым вопросам, связанным с настройкой и использованием ZenVoice.
+
+  <img src="../images/help_zv-fe48861faf4024858f7f638eb0bc4c96.png" alt="help_zv-fe48861faf4024858f7f638eb0bc4c96" style="zoom:67%;" />
+
