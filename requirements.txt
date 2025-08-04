@@ -1,2 +1,5 @@
-#mkdocs
 mkdocs-material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
