@@ -1,0 +1,34 @@
+site_name: Zennio Remote (RU)
+site_url: https://knxtrade.github.io/zr-manual-ru/
+theme:
+  name: material
+site_author: KNX-TRADE
+copyright: KNX-TRADE, ABASTA LLC, 2025
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+nav:
+  - Введение:
+    - index.md
+    - intro/install.md
+  - Доступ и регистрация:
+    - access_register/register.md
+    - access_register/login.md
+    - access_register/guest_access.md
+  - Устройства:
+    - devices/device_pairing.md
+    - devices/device_management.md
+    - devices/multiple_devices_management.md
+    - devices/notification.md
+    - devices/device_vs_remote_control.md
+  - Голосовое управление:
+    - voice_control/device_management.md
+    - voice_control/device_types.md
+    - voice_control/assistants.md
+  - Пользовательская настройка:
+    - user_config/user.md
+    - user_config/preferences.md
+  - Помощь:
+    - help/index.md
+    - help/about.md
