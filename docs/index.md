@@ -3,7 +3,11 @@ date: 2025-08-01
 updated: 2025-08-01
 categories:
   - Обзор
+links:
+  - index.md
+  - intro/install.md
 ---
+
 # Введение
 
 !!! tip inline end "ВНИМАНИЕ!"
@@ -24,7 +28,11 @@ categories:
 
 Чтобы начать использовать **Zennio Remote**, необходимо выполнить несколько начальных шагов:
 
-!!! info inline "УСТАНОВКА ПРИЛОЖЕНИЯ"
+!!! info "УСТАНОВКА ПРИЛОЖЕНИЯ"
     Узнайте, как установить мобильное приложение на ваше устройство iOS или Android.
     
     [Подробнее](/zr-manual-ru/intro/install/)
+
+<div class="grid cards" markdown>
+  [О приложении](/zr-manual-ru/help/){ .md-button }  [Установка](/zr-manual-ru/intro/install/){ .md-button }
+</div>

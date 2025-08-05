@@ -2,12 +2,33 @@ site_name: Zennio Remote (RU)
 site_url: https://knxtrade.github.io/zr-manual-ru/
 theme:
   name: material
+  language: ru
+  favicon: images/favicon.svg
+  logo: images/logo.png
+  palette:
+    primary: green
+  font:
+    test: "Roboto Mono"
+    code: "Roboto Mono"
+  features:
+    - search.suggest
+    - search.highlight
 site_author: KNX-TRADE
-copyright: KNX-TRADE, ABASTA LLC, 2025
+copyright: Copyright &copy; 2025 - KNX-TRADE от имени ABASTA LLC
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.blocks.caption
+  - toc:
+      permalink: true
+      permalink_title: Anchor link to this section for reference
+plugins:
+  - blog
+  - search
 nav:
   - Введение:
     - index.md
