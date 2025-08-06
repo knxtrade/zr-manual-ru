@@ -33,6 +33,16 @@ links:
     
     [Подробнее](/zr-manual-ru/intro/install/)
 
+---
+
 <div class="grid cards" markdown>
-  [О приложении](/zr-manual-ru/help/){ .md-button }  [Установка](/zr-manual-ru/intro/install/){ .md-button }
-</div>
+
+- <div class="card" style="text-align: left;">Назад
+
+    [:octicons-arrow-left-24: О приложении](/zr-manual-ru/help/about/){ .md-button }
+
+- <div class="card" style="text-align: right;">Вперед
+    
+    [Установка :octicons-arrow-right-24:](/zr-manual-ru/intro/install/){ .md-button }
+
+</div></div></div>
