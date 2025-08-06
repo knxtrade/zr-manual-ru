@@ -27,7 +27,7 @@
 
   Пользователь перенаправляется на это руководство, которое содержит подробную информацию о функциях приложения.
 
-  <img src="../images/help_zr-655c03cc0f08072c99957b4f25e3685a.png" alt="help_zr-655c03cc0f08072c99957b4f25e3685a.png" style="zoom: 67%;" />
+  <img src="../images/help_zr.png" alt="help_zr.png" style="zoom: 67%;" />
 
 
 
@@ -45,5 +45,5 @@
 
   Предоставляет доступ к часто задаваемым вопросам, связанным с настройкой и использованием ZenVoice.
 
-  <img src="../images/help_zv-fe48861faf4024858f7f638eb0bc4c96.png" alt="help_zv-fe48861faf4024858f7f638eb0bc4c96" style="zoom:67%;" />
+  <img src="../images/help_zv.png" alt="help_zv" style="zoom:67%;" />
 
