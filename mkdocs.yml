@@ -39,7 +39,6 @@ markdown_extensions:
       permalink: true
       permalink_title: Anchor link to this section for reference
 plugins:
-  - blog
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
       lang: 
@@ -87,3 +86,4 @@ nav:
   - Помощь:
     - help/index.md
     - help/about.md
+    - help/translation.md
