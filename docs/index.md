@@ -12,7 +12,7 @@ links:
 
 !!! tip inline end "ВНИМАНИЕ!"
 
-    Скоро мы сделаем полный перевод на русский язык руководства по **Zennio Remote** и **ZenVoice** ([оригинал на английском языке](https://web.zennioremote.com/assets/zr-manual/)). 
+    Скоро мы сделаем полный перевод на русский язык руководства по **Zennio Remote** и **ZenVoice** ([оригинал на английском языке](https://web.zennioremote.com/assets/zr-manual/)).
     
     Наберитесь терпения, скоров вы получите полный перевод. Заходите сюда проверить или [подпишитесь на новости нашего блога](https://knx-trade.ru/blog/news/alisa-vklyuchi-svet.html).
 

@@ -8,8 +8,8 @@ theme:
   palette:
     primary: green
   font:
-    test: "Roboto Mono"
-    code: "Roboto Mono"
+    text: "Open Sans"
+    code: "Victor Mono"
   features:
     - search.suggest
     - search.highlight
