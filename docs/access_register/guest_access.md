@@ -26,6 +26,6 @@
 
 - <div class="card" style="text-align: right;">Вперед
     
-    [Как выполнить сопряжение устройства? :octicons-arrow-right-24:](/zr-manual-ru//devices/device_pairing){ .md-button }
+    [Сопряжение устройства :octicons-arrow-right-24:](/zr-manual-ru//devices/device_pairing){ .md-button }
 
 </div></div></div>
