@@ -15,3 +15,17 @@
 
 !!! Info "Информация"
     Доступ без регистрации предназначен для немедленного использования. Если вам нужен постоянный доступ, сохранение определённых настроек или использование расширенных функций, таких как голосовое управление, рекомендуется создать аккаунт или войти в существующую учётную запись.
+
+------
+
+<div class="grid cards" markdown>
+
+- <div class="card" style="text-align: left;">Назад
+
+    [:octicons-arrow-left-24: Войти в систему](/zr-manual-ru/access_register/login){ .md-button }
+
+- <div class="card" style="text-align: right;">Вперед
+    
+    [Как выполнить сопряжение устройства? :octicons-arrow-right-24:](/zr-manual-ru//devices/device_pairing){ .md-button }
+
+</div></div></div>
