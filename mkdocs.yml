@@ -1,5 +1,7 @@
 site_name: Zennio Remote (RU)
 site_url: https://knxtrade.github.io/zr-manual-ru/
+site_author: KNX-TRADE
+copyright: Copyright &copy; MMXXV - KNX-TRADE by ABASTA LLC
 theme:
   name: material
   language: ru
@@ -13,8 +15,20 @@ theme:
   features:
     - search.suggest
     - search.highlight
-site_author: KNX-TRADE
-copyright: Copyright &copy; 2025 - KNX-TRADE от имени ABASTA LLC
+  icon:
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/bullhorn
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
 markdown_extensions:
   - admonition
   - abbr
