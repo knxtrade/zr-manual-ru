@@ -8,7 +8,9 @@
 
 Чтобы войти, пользователь должен нажать на кнопку **Войти**, после чего откроется следующее окно:
 
-![login.png](../images/login.png)
+<figure markdown>
+![login.png](../images/login.png){ width="200" loading=lazy }
+</figure>
 
 ## Обязательные поля
 
@@ -28,7 +30,9 @@
 
 Если будет введён адрес, не связанный с учётной записью, появится сообщение об ошибке:
 
-![forgot_pass_1.png](../images/forgot_pass_1.png)
+<figure markdown>
+![forgot_pass_1.png](../images/forgot_pass_1.png){ width="200" loading=lazy }
+</figure>
 
 После того как будет введён действительный адрес, пользователю на почту будет отправлено письмо с числовым кодом.
 
@@ -39,7 +43,9 @@
 - Не менее 8 символов.
 - Содержит цифры, строчные и заглавные буквы.
 
-![forgot_pass_2.png](../images/forgot_pass_2.png)
+<figure markdown>
+![forgot_pass_2.png](../images/forgot_pass_2.png){ width="200" loading=lazy }
+</figure>
 
 После заполнения всех полей пользователь должен подтвердить диалог, чтобы обновить пароль.
 

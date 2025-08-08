@@ -8,7 +8,9 @@
 
 Чтобы создать учётную запись, пользователю необходимо нажать на кнопку **«Зарегистрироваться»**, после чего откроется окно регистрации.
 
-![register.png](../images/register.png)
+<figure markdown>
+![register.png](../images/register.png){ width="200" loading=lazy }
+</figure>
 
 ## Обязательные поля
 
