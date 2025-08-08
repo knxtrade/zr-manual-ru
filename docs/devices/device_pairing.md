@@ -171,12 +171,12 @@ Android/iOS
 
 <div class="grid cards" markdown>
 
-- <div class="card" style="text-align: left;">Назад
+- <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Доступ без регистрации](/zr-manual-ru/access_register/guest_access/){ .md-button }
+    [:octicons-arrow-left-24: Доступ без регистрации](/zr-manual-ru/access_register/guest_access/)
 
-- <div class="card" style="text-align: right;">Вперед
+- <div class="card" style="text-align: right;">
     
-    [Список устройств :octicons-arrow-right-24:](/zr-manual-ru/devices/list_devices/){ .md-button }
+    [Список устройств :octicons-arrow-right-24:](/zr-manual-ru/devices/list_devices/)
 
 </div></div></div>

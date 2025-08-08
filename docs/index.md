@@ -36,12 +36,12 @@ links:
 
 <div class="grid cards" markdown>
 
-- <div class="card" style="text-align: left;">Назад
+- <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: О приложении](/zr-manual-ru/help/about/){ .md-button }
+    [:octicons-arrow-left-24: О приложении](/zr-manual-ru/help/about/)
 
-- <div class="card" style="text-align: right;">Вперед
+- <div class="card" style="text-align: right;">
     
-    [Установка :octicons-arrow-right-24:](/zr-manual-ru/intro/install/){ .md-button }
+    [Установка :octicons-arrow-right-24:](/zr-manual-ru/intro/install/)
 
 </div></div></div>

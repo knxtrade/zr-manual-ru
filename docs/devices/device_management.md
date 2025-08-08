@@ -102,12 +102,12 @@
 
 <div class="grid cards" markdown>
 
-- <div class="card" style="text-align: left;">Назад
+- <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Список устройств](/zr-manual-ru/devices/list_devices/){ .md-button }
+    [:octicons-arrow-left-24: Список устройств](/zr-manual-ru/devices/list_devices/)
 
-- <div class="card" style="text-align: right;">Вперед
+- <div class="card" style="text-align: right;">
   
-    [Управление несколькими устройствами :octicons-arrow-right-24:](/zr-manual-ru/devices/multiple_devices_management/){ .md-button }
+    [Управление несколькими устройствами :octicons-arrow-right-24:](/zr-manual-ru/devices/multiple_devices_management/)
 
 </div></div></div>

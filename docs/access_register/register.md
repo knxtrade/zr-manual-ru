@@ -38,12 +38,12 @@
 
 <div class="grid cards" markdown>
 
-- <div class="card" style="text-align: left;">Назад
+- <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Установка](/zr-manual-ru/intro/install/){ .md-button }
+    [:octicons-arrow-left-24: Установка](/zr-manual-ru/intro/install/)
 
-- <div class="card" style="text-align: right;">Вперед
+- <div class="card" style="text-align: right;">
     
-    [Войти в систему :octicons-arrow-right-24:](/zr-manual-ru/access_register/login/){ .md-button }
+    [Войти в систему :octicons-arrow-right-24:](/zr-manual-ru/access_register/login/)
 
 </div></div></div>

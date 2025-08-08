@@ -50,12 +50,12 @@
 
 <div class="grid cards" markdown>
 
-- <div class="card" style="text-align: left;">Назад
+- <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Создание учётной записи](/zr-manual-ru/access_register/register/){ .md-button }
+    [:octicons-arrow-left-24: Создание учётной записи](/zr-manual-ru/access_register/register/)
 
-- <div class="card" style="text-align: right;">Вперед
+- <div class="card" style="text-align: right;">
     
-    [Доступ без регистрации :octicons-arrow-right-24:](/zr-manual-ru/access_register/guest_access/){ .md-button }
+    [Доступ без регистрации :octicons-arrow-right-24:](/zr-manual-ru/access_register/guest_access/)
 
 </div></div></div>

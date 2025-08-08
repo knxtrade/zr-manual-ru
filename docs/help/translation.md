@@ -1,4 +1,4 @@
-# Перевод
+# О переводе
 
 ## От автора
 
@@ -6,8 +6,8 @@
 
 ## Контакты
 
-[Свяжитесь с нами :fontawesome-solid-paper-plane:](https://abasta.ru/contactus){ .md-button }
+[Свяжитесь с нами :fontawesome-solid-paper-plane:](https://abasta.ru/contactus)
 
-## Наши новости 
+## Новости от автора 
 
 [Телеграм :fontawesome-solid-paper-plane:](https://t.me/knxtrade_news){ .md-button }

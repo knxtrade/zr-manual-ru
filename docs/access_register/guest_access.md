@@ -20,12 +20,12 @@
 
 <div class="grid cards" markdown>
 
-- <div class="card" style="text-align: left;">Назад
+- <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Войти в систему](/zr-manual-ru/access_register/login){ .md-button }
+    [:octicons-arrow-left-24: Войти в систему](/zr-manual-ru/access_register/login)
 
-- <div class="card" style="text-align: right;">Вперед
+- <div class="card" style="text-align: right;">
     
-    [Сопряжение устройства :octicons-arrow-right-24:](/zr-manual-ru//devices/device_pairing){ .md-button }
+    [Сопряжение устройства :octicons-arrow-right-24:](/zr-manual-ru//devices/device_pairing)
 
 </div></div></div>

@@ -52,10 +52,10 @@
 
 - <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Введение](/zr-manual-ru/){ .md-button }
+    [:octicons-arrow-left-24: Введение](/zr-manual-ru/)
 
 - <div class="card" style="text-align: right;">
     
-    [Регистрация :octicons-arrow-right-24:](/zr-manual-ru/access_register/register/){ .md-button }
+    [Регистрация :octicons-arrow-right-24:](/zr-manual-ru/access_register/register/)
 
 </div></div></div>
