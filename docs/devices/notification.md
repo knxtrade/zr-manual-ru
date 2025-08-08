@@ -44,6 +44,6 @@
 
 - <div class="card" style="text-align: right;">
   
-    [Устройство и Дистанционное управление :octicons-arrow-right-24:](/zr-manual-ru/devices/device_vs_remote_control)
+    [Различия физического устройства и дистанционного управления :octicons-arrow-right-24:](/zr-manual-ru/devices/device_vs_remote_control)
 
 </div></div></div>
