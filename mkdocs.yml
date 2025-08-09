@@ -37,7 +37,7 @@ theme:
 extra:
   analytics:
     provider: google
-    property: G-3R2NLCZHHW
+    property: G-XMLNW9XCTS
   extra_headers:
     - |
       <meta name="google-site-verification" content="hX5J-58jejYRcke6HnwBuX9BojHmAK_nUGvSv8NX2a0" />
