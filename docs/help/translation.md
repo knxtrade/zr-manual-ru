@@ -1,5 +1,7 @@
 # О переводе
 
+------
+
 ## От автора
 
 - Данный [ресурс](https://knxtrade.github.io/zr-manual-ru/) создан командой [KNX-TRADE](https://knx-trade.ru) как альтернативный перевод на русский язык [официального руководства](https://web.zennioremote.com/assets/zr-manual/) **Zennio Remote** и **ZenVoice**.

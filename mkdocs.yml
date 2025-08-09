@@ -4,6 +4,7 @@ site_author: KNX-TRADE
 copyright: Copyright &copy; MMXXV - KNX-TRADE by ABASTA LLC
 theme:
   name: material
+  custom_dir: overrides
   language: ru
   favicon: images/favicon.svg
   logo: images/logo.png
@@ -15,6 +16,7 @@ theme:
   features:
     - search.suggest
     - search.highlight
+    - navigation.path
   icon:
     admonition:
       note: fontawesome/solid/note-sticky
@@ -29,6 +31,15 @@ theme:
       bug: fontawesome/solid/robot
       example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
+extra:
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+  extra_headers:
+    - |
+      <meta name="google-site-verification" content="hX5J-58jejYRcke6HnwBuX9BojHmAK_nUGvSv8NX2a0" />
+  extra_javascript:
+    - javascripts/feedback.js
 markdown_extensions:
   - admonition
   - abbr
@@ -70,7 +81,6 @@ plugins:
       draggable: true
       skip_classes:
         - custom-skip-class-name
-      auto_themed: false
       auto_caption: false
       caption_position: bottom
       background: white
