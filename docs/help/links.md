@@ -30,17 +30,18 @@
 
 ## Ресурсы
 
-- **Этот сайт:** Руководство **Zennio Remote:** Мобильное приложение для управления умным домом: `https://zennio-remote.knxtrade.ru/`
+- **Этот сайт:** Руководство **Zennio Remote:** Мобильное приложение для управления умным домом: [https://zennio-remote.knxtrade.ru](https://zennio-remote.knxtrade.ru)
 - **Material for MkDocs:** Тема оформления для MkDocs.
-    - Репозиторий на GitHub: `https://github.com/squidfunk/mkdocs-material.git`
+    - Репозиторий на GitHub: [https://github.com/squidfunk/mkdocs-material.git](https://github.com/squidfunk/mkdocs-material.git)
 - **MkDocs:** Генератор статических сайтов, используемый для сборки документации.
-    - Репозиторий на GitHub: `https://github.com/mkdocs/mkdocs.git`
+    - Репозиторий на GitHub: [https://github.com/mkdocs/mkdocs.git](https://github.com/mkdocs/mkdocs.git)
 - **GitHub Pages:** Сервис для хостинга статических сайтов.
 - **Cloudflare:** Сервис для управления DNS и прокси-сервером.
 - **GitHub Actions:** Сервис автоматизации, используемый для деплоя сайта.
-- **Visual Studio Code (VS Code):** Редактор кода, упомянутый для создания контента.
-- **Репозиторий пользователя:** `https://github.com/knxtrade/zr-manual-ru.git`
-    - Скрипт деплоя: `https://github.com/knxtrade/zr-manual-ru/blob/master/.github/workflows/ci.yml`
+- **Visual Studio Code (VS Code):** Редактор кода, упомянутый для создания контента:
+    - [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+- **Репозиторий пользователя:** [https://github.com/knxtrade/zr-manual-ru.git](https://github.com/knxtrade/zr-manual-ru.git)
+    - Скрипт деплоя: [https://github.com/knxtrade/zr-manual-ru/blob/master/.github/workflows/ci.yml](https://github.com/knxtrade/zr-manual-ru/blob/master/.github/workflows/ci.yml)
 
 Надеемся, этот список будет полезен вам.
 
