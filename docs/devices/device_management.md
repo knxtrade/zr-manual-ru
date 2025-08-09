@@ -104,10 +104,10 @@
 
 - <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Список устройств](/zr-manual-ru/devices/list_devices/)
+    [:octicons-arrow-left-24: Список устройств](/devices/list_devices/)
 
 - <div class="card" style="text-align: right;">
   
-    [Управление несколькими устройствами :octicons-arrow-right-24:](/zr-manual-ru/devices/multiple_devices_management/)
+    [Управление несколькими устройствами :octicons-arrow-right-24:](/devices/multiple_devices_management/)
 
 </div></div></div>

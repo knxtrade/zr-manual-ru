@@ -42,10 +42,10 @@
 
 - <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Установка](/zr-manual-ru/intro/install/)
+    [:octicons-arrow-left-24: Установка](/intro/install/)
 
 - <div class="card" style="text-align: right;">
     
-    [Войти в систему :octicons-arrow-right-24:](/zr-manual-ru/access_register/login/)
+    [Войти в систему :octicons-arrow-right-24:](/access_register/login/)
 
 </div></div></div>

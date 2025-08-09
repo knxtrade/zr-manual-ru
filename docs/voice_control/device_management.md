@@ -5,7 +5,7 @@
 Дополнительную информацию о доступе к этому разделу можно найти здесь:
 
 !!! Abstract "Доступ к голосовому управлению:"
-    Узнать, [как получить доступ к разделу «Голосовое управление»](/zr-manual-ru/devices/device_management#voice-control)
+    Узнать, [как получить доступ к разделу «Голосовое управление»](/devices/device_management#voice-control)
 
 -----
 
@@ -20,7 +20,7 @@
 Дополнительную информацию о типах устройств можно найти в следующем разделе:
 
 !!! Abstract "Типы устройств:"
-    Узнать о [различных типах устройств, совместимых с голосовым управлением, и их особенностях](/zr-manual-ru/voice_control/device_types)
+    Узнать о [различных типах устройств, совместимых с голосовым управлением, и их особенностях](/voice_control/device_types)
 
 -----
 
@@ -83,10 +83,10 @@
 
 - <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Различия физического устройства и дистанционного управления](/zr-manual-ru/devices/device_vs_remote_control)
+    [:octicons-arrow-left-24: Различия физического устройства и дистанционного управления](/devices/device_vs_remote_control)
 
 - <div class="card" style="text-align: right;">
   
-    [Типы устройств :octicons-arrow-right-24:](/zr-manual-ru/voice_control/device_types)
+    [Типы устройств :octicons-arrow-right-24:](/voice_control/device_types)
 
 </div></div></div>

@@ -67,9 +67,9 @@
 <div class="grid cards" markdown>
 
 - <div class="card" style="text-align: left;">
-    [:octicons-arrow-left-24: Push-уведомления](/zr-manual-ru/devices/notification)
+    [:octicons-arrow-left-24: Push-уведомления](/devices/notification)
     
 - <div class="card" style="text-align: right;">
-  [Голосовое управление :octicons-arrow-right-24:](/zr-manual-ru/voice_control/device_management)
+  [Голосовое управление :octicons-arrow-right-24:](/voice_control/device_management)
 
 </div></div></div>

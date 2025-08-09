@@ -90,10 +90,10 @@
 
 - <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Управление устройствами](/zr-manual-ru/devices/device_management)
+    [:octicons-arrow-left-24: Управление устройствами](/devices/device_management)
 
 - <div class="card" style="text-align: right;">
   
-    [Оповещения :octicons-arrow-right-24:](/zr-manual-ru/devices/notification)
+    [Оповещения :octicons-arrow-right-24:](/devices/notification)
 
 </div></div></div>

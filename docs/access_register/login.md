@@ -58,10 +58,10 @@
 
 - <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Создание учётной записи](/zr-manual-ru/access_register/register/)
+    [:octicons-arrow-left-24: Создание учётной записи](/access_register/register/)
 
 - <div class="card" style="text-align: right;">
     
-    [Доступ без регистрации :octicons-arrow-right-24:](/zr-manual-ru/access_register/guest_access/)
+    [Доступ без регистрации :octicons-arrow-right-24:](/access_register/guest_access/)
 
 </div></div></div>

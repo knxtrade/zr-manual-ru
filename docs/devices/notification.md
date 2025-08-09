@@ -40,10 +40,10 @@
 
 - <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Управление несколькими устройствами](/zr-manual-ru/devices/multiple_devices_management)
+    [:octicons-arrow-left-24: Управление несколькими устройствами](/devices/multiple_devices_management)
 
 - <div class="card" style="text-align: right;">
   
-    [Различия физического устройства и дистанционного управления :octicons-arrow-right-24:](/zr-manual-ru/devices/device_vs_remote_control)
+    [Различия физического устройства и дистанционного управления :octicons-arrow-right-24:](/devices/device_vs_remote_control)
 
 </div></div></div>

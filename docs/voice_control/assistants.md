@@ -124,10 +124,10 @@
 
 - <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Типы устройств](/zr-manual-ru/voice_control/device_types/)
+    [:octicons-arrow-left-24: Типы устройств](/voice_control/device_types/)
 
 - <div class="card" style="text-align: right;">
   
-    [Пользователь :octicons-arrow-right-24:](/zr-manual-ru/user_config/user)
+    [Пользователь :octicons-arrow-right-24:](/user_config/user)
 
 </div></div></div>

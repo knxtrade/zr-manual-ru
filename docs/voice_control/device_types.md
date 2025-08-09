@@ -374,10 +374,10 @@
 
 - <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Голосовое управление](/zr-manual-ru/voice_control/device_management/)
+    [:octicons-arrow-left-24: Голосовое управление](/voice_control/device_management/)
 
 - <div class="card" style="text-align: right;">
   
-    [Голосовые помощники :octicons-arrow-right-24:](/zr-manual-ru/voice_control/assistants)
+    [Голосовые помощники :octicons-arrow-right-24:](/voice_control/assistants)
 
 </div></div></div>

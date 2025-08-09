@@ -41,10 +41,10 @@
 
 - <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Сопряжение устройства](/zr-manual-ru/devices/device_pairing/)
+    [:octicons-arrow-left-24: Сопряжение устройства](/devices/device_pairing/)
 
 - <div class="card" style="text-align: right;">
   
-    [Управление устройствами :octicons-arrow-right-24:](/zr-manual-ru/devices/device_management/)
+    [Управление устройствами :octicons-arrow-right-24:](/devices/device_management/)
 
 </div></div></div>

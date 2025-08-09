@@ -67,10 +67,10 @@
 
 - <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Пользователь](/zr-manual-ru/user_config/user/)
+    [:octicons-arrow-left-24: Пользователь](/user_config/user/)
 
 - <div class="card" style="text-align: right;">
   
-    [Помощь :octicons-arrow-right-24:](/zr-manual-ru/help/)
+    [Помощь :octicons-arrow-right-24:](/help/)
 
 </div></div></div>

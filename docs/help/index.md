@@ -55,10 +55,10 @@
 
 - <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Настройки](/zr-manual-ru/user_config/preferences/)
+    [:octicons-arrow-left-24: Настройки](/user_config/preferences/)
 
 - <div class="card" style="text-align: right;">
   
-    [О приложении :octicons-arrow-right-24:](/zr-manual-ru/help/about/)
+    [О приложении :octicons-arrow-right-24:](/help/about/)
 
 </div></div></div>

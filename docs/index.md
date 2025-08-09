@@ -14,7 +14,7 @@ links:
 
     Мы сделали перевод на русский язык руководства по **Zennio Remote** и **ZenVoice**, но можно работать и с [оригиналом на английском языке](https://web.zennioremote.com/assets/zr-manual/).
     
-    Вы может помочь с данным переводом или коррекцией неточностей, смотрите страницу [О переводе](/zr-manual-ru/help/translation/). 
+    Вы может помочь с данным переводом или коррекцией неточностей, смотрите страницу [О переводе](/help/translation/). 
 
 **Zennio Remote** — это решение, разработанное для обеспечения повсеместности и универсальности управления умным домом. Это приложение позволяет пользователям удаленно управлять несколькими сенсорными экранами [**Zennio**](https://knx-trade.ru/3-zennio "Перейти в каталог оборудования Zennio") с совместимых мобильных устройств iOS, Android и веб-браузеров, а также с помощью голосовых помощников.
 
@@ -30,7 +30,7 @@ links:
 
     Узнайте, как установить мобильное приложение на ваше устройство **iOS** или **Android**.
     
-    [Подробнее](/zr-manual-ru/intro/install/)
+    [Подробнее](/intro/install/)
 
 ---
 
@@ -38,10 +38,10 @@ links:
 
 - <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: О приложении](/zr-manual-ru/help/about/)
+    [:octicons-arrow-left-24: О приложении](/help/about/)
 
 - <div class="card" style="text-align: right;">
     
-    [Установка :octicons-arrow-right-24:](/zr-manual-ru/intro/install/)
+    [Установка :octicons-arrow-right-24:](/intro/install/)
 
 </div></div></div>

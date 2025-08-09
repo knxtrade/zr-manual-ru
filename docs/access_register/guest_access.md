@@ -25,10 +25,10 @@
 
 - <div class="card" style="text-align: left;">
 
-    [:octicons-arrow-left-24: Войти в систему](/zr-manual-ru/access_register/login)
+    [:octicons-arrow-left-24: Войти в систему](/access_register/login)
 
 - <div class="card" style="text-align: right;">
     
-    [Сопряжение устройства :octicons-arrow-right-24:](/zr-manual-ru//devices/device_pairing)
+    [Сопряжение устройства :octicons-arrow-right-24:](//devices/device_pairing)
 
 </div></div></div>
