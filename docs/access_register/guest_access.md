@@ -29,6 +29,6 @@
 
 - <div class="card" style="text-align: right;">
     
-    [Сопряжение устройства :octicons-arrow-right-24:](//devices/device_pairing)
+    [Сопряжение устройства :octicons-arrow-right-24:](/devices/device_pairing)
 
 </div></div></div>
