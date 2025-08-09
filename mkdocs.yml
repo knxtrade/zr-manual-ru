@@ -17,6 +17,9 @@ theme:
     - search.suggest
     - search.highlight
     - navigation.path
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.top  
   icon:
     admonition:
       note: fontawesome/solid/note-sticky
@@ -88,7 +91,7 @@ plugins:
       manual: false
 nav:
   - Введение:
-    - index.md
+    - Обзор: index.md
     - intro/install.md
   - Доступ и регистрация:
     - access_register/register.md

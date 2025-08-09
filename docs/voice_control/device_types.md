@@ -312,20 +312,20 @@
 
 ### Голосовые команды
 
-* **Алиса:**
+=== "Алиса"
     - *Алиса, открой шторы*
     - *Алиса, закрой шторы*
-* **Alexa:**
+=== "Alexa"
     - *Alexa, raise the blind*
     - *Alexa, lower the blind a little*
     - *Alexa, open the blind*
     - *Alexa, set the blind to 25%*
-* **Google Home:**
+=== "Google Home"
     - *OK Google, raise the blind*
     - *OK Google, lower the blind a little*
     - *OK Google, open the blind*
     - *OK Google, set the blind to 25%*
-* **Yasmina:**
+=== "Yasmina"
     - *Yasmina, open Blind*
     - *Yasmina, close Blind*
 
