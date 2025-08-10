@@ -12,7 +12,7 @@ links:
 
 !!! tip inline end "ВНИМАНИЕ!"
 
-    Мы сделали перевод на русский язык руководства по **Zennio Remote** и **ZenVoice**, но можно работать и с [оригиналом на английском языке](https://web.zennioremote.com/assets/zr-manual/).
+    Перед вами перевод на русский язык руководства по **Zennio Remote** и **ZenVoice**. По ссылке доступен [оригинал на английском языке](https://web.zennioremote.com/assets/zr-manual/).
     
     Вы может помочь с данным переводом или коррекцией неточностей, смотрите страницу [О переводе](/help/translation/). 
 
