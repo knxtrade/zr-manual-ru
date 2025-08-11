@@ -5,5 +5,5 @@
 ------
 
 - MAIN URL:       https://zennio-remote.knxtrade.ru/
-- GitHub URL:     https://knxtrade.github.io/zr-manual-ru/
+- GitHub-Pages:   https://knxtrade.github.io/zr-manual-ru/
 - Repo Git:       https://github.com/knxtrade/zr-manual-ru
