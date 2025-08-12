@@ -26,11 +26,11 @@
 - **Кастомный домен:** К сервису GitHub Pages привязывается собственный домен, но можно использовать по-умолчанию репозитария: 
     - [https://knxtrade.github.io/zr-manual-ru/](https://knxtrade.github.io/zr-manual-ru/)
 - **Результат:** Готовый сайт становится доступен по адресу: 
-    - [https://zennio-remote.knxtrade.ru/](https://zennio-remote.knxtrade.ru/)
+    - [https://zr-manual.knx-trade.ru/](https://zr-manual.knx-trade.ru/)
 
 ## Ресурсы
 
-- **Этот сайт:** Руководство **Zennio Remote:** Мобильное приложение для управления умным домом: [https://zennio-remote.knxtrade.ru](https://zennio-remote.knxtrade.ru)
+- **Этот сайт:** Руководство **Zennio Remote:** Мобильное приложение для управления умным домом: [https://zr-manual.knx-trade.ru.ru](https://zr-manual.knx-trade.ru.ru)
 - **Material for MkDocs:** Тема оформления для MkDocs.
     - Репозиторий на GitHub: [https://github.com/squidfunk/mkdocs-material.git](https://github.com/squidfunk/mkdocs-material.git)
 - **MkDocs:** Генератор статических сайтов, используемый для сборки документации.

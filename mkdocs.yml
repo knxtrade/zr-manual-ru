@@ -6,13 +6,13 @@ theme:
   name: material
   custom_dir: overrides
   language: ru
-  favicon: images/favicon.svg
+  favicon: images/favicon.png
   logo: images/logo.png
   palette:
     primary: green
   font:
-    text: "Open Sans"
-    code: "Victor Mono"
+    text: "Roboto"
+    code: "Roboto Mono"
   features:
     - search.suggest
     - search.highlight
