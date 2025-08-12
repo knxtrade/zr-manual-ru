@@ -1,15 +1,31 @@
 site_name: Zennio Remote (RU)
 site_url: https://zr-manual.knx-trade.ru
 site_author: KNX-TRADE
-copyright: Copyright &copy; MMXXV - KNX-TRADE by ABASTA LLC
+copyright: Copyright &copy; MMXXV - <a href="https://knx-trade.ru" target="_blank">KNX-TRADE</a> by <a href="https://abasta.ru/contactus" target="_blank">ABASTA LLC</a>
 theme:
   name: material
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
   custom_dir: overrides
   language: ru
   favicon: images/favicon.png
   logo: images/logo.png
-  palette:
-    primary: green
   font:
     text: "Roboto"
     code: "Roboto Mono"
@@ -34,6 +50,8 @@ theme:
       bug: fontawesome/solid/robot
       example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
+extra_css:
+  - stylesheets/extra.css
 extra:
   analytics:
     provider: google
