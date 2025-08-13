@@ -12,7 +12,7 @@ theme:
         name: Switch to light mode
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -35,7 +35,7 @@ theme:
     - navigation.path
     - navigation.instant
     - navigation.instant.prefetch
-    - navigation.top  
+    - navigation.top
   icon:
     admonition:
       note: fontawesome/solid/note-sticky
@@ -56,8 +56,10 @@ extra:
   analytics:
     provider: google
     property: G-CRD7BKJGPM
-  extra_javascript:
-    - javascripts/feedback.js
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+  - javascripts/feedback.js
 markdown_extensions:
   - admonition
   - abbr
@@ -85,7 +87,7 @@ markdown_extensions:
 plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
-      lang: 
+      lang:
         - ru
         - en
   - glightbox:
@@ -106,28 +108,27 @@ plugins:
       manual: false
 nav:
   - Введение:
-    - Обзор: index.md
-    - intro/install.md
+      - Обзор: index.md
+      - intro/install.md
   - Доступ и регистрация:
-    - access_register/register.md
-    - access_register/login.md
-    - access_register/guest_access.md
+      - access_register/register.md
+      - access_register/login.md
+      - access_register/guest_access.md
   - Устройства:
-    - devices/device_pairing.md
-    - devices/list_devices.md
-    - devices/device_management.md
-    - devices/multiple_devices_management.md
-    - devices/notification.md
-    - devices/device_vs_remote_control.md
+      - devices/device_pairing.md
+      - devices/list_devices.md
+      - devices/device_management.md
+      - devices/multiple_devices_management.md
+      - devices/notification.md
+      - devices/device_vs_remote_control.md
   - Голосовое управление:
-    - voice_control/device_management.md
-    - voice_control/device_types.md
-    - voice_control/assistants.md
+      - voice_control/device_management.md
+      - voice_control/device_types.md
+      - voice_control/assistants.md
   - Пользовательская настройка:
-    - user_config/user.md
-    - user_config/preferences.md
+      - user_config/user.md
+      - user_config/preferences.md
   - Помощь:
-    - help/index.md
-    - help/about.md
-    - help/translation.md
-    - help/links.md
+      - help/index.md
+      - help/about.md
+      - help/translation.md
