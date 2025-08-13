@@ -36,6 +36,8 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.top
+    - navigation.indexes
+    - navigation.footer
   icon:
     admonition:
       note: fontawesome/solid/note-sticky
@@ -53,6 +55,15 @@ theme:
 extra_css:
   - stylesheets/extra.css
 extra:
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/knxtrade_news
+    - icon: fontawesome/brands/vk
+      link: https://vk.com/knxtrade
+    - icon: fontawesome/brands/square-youtube
+      link: https://rutube.ru/u/knxtrade/
+    - icon: fontawesome/brands/square-git
+      link: https://github.com/knxtrade/zennio-ac.git 
   analytics:
     provider: google
     property: G-CRD7BKJGPM
