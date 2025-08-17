@@ -367,17 +367,3 @@
 !!! Info "Информация"
 
     Для разных оттенков белого цвета отображение в приложении *Google Home* и на совместимых сенсорных экранах может немного отличаться.
-
-------
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-
-    [:octicons-arrow-left-24: Голосовое управление](/voice_control/device_management/)
-
-- <div class="card" style="text-align: right;">
-  
-    [Голосовые помощники :octicons-arrow-right-24:](/voice_control/assistants)
-
-</div></div></div>

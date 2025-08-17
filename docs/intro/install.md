@@ -45,17 +45,3 @@
 ## Доступ из веб-браузеров
 
 Помимо мобильных приложений, **Zennio Remote** можно использовать непосредственно из веб-браузеров, что обеспечивает быстрый доступ без установки. Для доступа достаточно зайти на платформу [**Zennio Remote Web**](https://web.zennioremote.com/home) и войти в систему, используя соответствующие учётные данные.
-
----
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-
-    [:octicons-arrow-left-24: Введение](/)
-
-- <div class="card" style="text-align: right;">
-    
-    [Регистрация :octicons-arrow-right-24:](/access_register/register/)
-
-</div></div></div>

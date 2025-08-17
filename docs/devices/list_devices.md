@@ -34,17 +34,3 @@
 ### <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 192 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M96 184c39.8 0 72 32.2 72 72s-32.2 72-72 72-72-32.2-72-72 32.2-72 72-72zM24 80c0 39.8 32.2 72 72 72s72-32.2 72-72S135.8 8 96 8 24 40.2 24 80zm0 352c0 39.8 32.2 72 72 72s72-32.2 72-72-32.2-72-72-72-72 32.2-72 72z"></path></svg> Меню управления
 
 - Это меню позволяет выполнять дополнительные действия, например, редактировать данные об устройстве или удалять его из списка.
-
-------
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-
-    [:octicons-arrow-left-24: Сопряжение устройства](/devices/device_pairing/)
-
-- <div class="card" style="text-align: right;">
-  
-    [Управление устройствами :octicons-arrow-right-24:](/devices/device_management/)
-
-</div></div></div>

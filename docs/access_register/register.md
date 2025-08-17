@@ -34,18 +34,3 @@
 !!! info "Важно"
 
     Учётная запись будет неактивна до тех пор, пока адрес электронной почты не будет подтверждён. Без этого подтверждения войти в приложение будет невозможно. Ссылка, отправленная пользователю, действительна в течение 24 часов.
-
-
----
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-
-    [:octicons-arrow-left-24: Установка](/intro/install/)
-
-- <div class="card" style="text-align: right;">
-    
-    [Войти в систему :octicons-arrow-right-24:](/access_register/login/)
-
-</div></div></div>

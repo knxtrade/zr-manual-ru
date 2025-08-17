@@ -171,18 +171,4 @@
 !!! info "Управление устройствами"
     Получите доступ к меню управления, чтобы настраивать, конфигурировать и обслуживать сопряжённые устройства.
     
-    [Узнать больше...](/zr-manual/devices/device_management/)
-
-------
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-
-    [:octicons-arrow-left-24: Доступ без регистрации](/access_register/guest_access/)
-
-- <div class="card" style="text-align: right;">
-    
-    [Список устройств :octicons-arrow-right-24:](/devices/list_devices/)
-
-</div></div></div>
+    [Узнать больше :octicons-arrow-right-24:](/zr-manual/devices/device_management/)

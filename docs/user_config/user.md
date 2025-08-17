@@ -55,17 +55,3 @@
   * **Создание аккаунта:** [Узнайте, как зарегистрироваться на платформе и получить доступ ко всем её функциям.](/access_register/register)
   * **Вход в систему:** [Узнайте, как получить доступ к своему аккаунту и начать управлять своими устройствами.](/access_register/login)
   * **Доступ без регистрации:** [Узнайте, как пользоваться приложением без необходимости создавать аккаунт или входить в систему.](/access_register/guest_access)
-
-------
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-
-    [:octicons-arrow-left-24: Голосовые помощники](/voice_control/assistants/)
-
-- <div class="card" style="text-align: right;">
-  
-    [Настройки :octicons-arrow-right-24:](/user_config/preferences/)
-
-</div></div></div>

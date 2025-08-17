@@ -13,20 +13,6 @@
 
 - [Свяжитесь с нами :fontawesome-solid-paper-plane:](https://abasta.ru/contactus)
 
-## Новости от автора 
+## Новости от автора
 
 - [Подпишитесь на наш блог](https://knx-trade.ru/blog/news/alisa-vklyuchi-svet.html) или посетите наш канал в [Телеграм :fontawesome-solid-paper-plane:](https://t.me/knxtrade_news){ .md-button }
-
-------
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-
-    [:octicons-arrow-left-24: О приложении](/help/about/)
-
-- <div class="card" style="text-align: right;">
-  
-    [Ссылки :octicons-arrow-right-24:](/help/links/)
-
-</div></div></div>

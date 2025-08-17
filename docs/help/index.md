@@ -48,17 +48,3 @@
 <figure markdown>
 ![help_zv.png](../images/help_zv.png){ width="200" loading=lazy }
 </figure>
-
-------
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-
-    [:octicons-arrow-left-24: Настройки](/user_config/preferences/)
-
-- <div class="card" style="text-align: right;">
-  
-    [О приложении :octicons-arrow-right-24:](/help/about/)
-
-</div></div></div>

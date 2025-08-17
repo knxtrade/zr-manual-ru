@@ -51,17 +51,3 @@
 
 !!! info "Информация"
     Если введённый код неверный или пароли не совпадают, приложение уведомит пользователя сообщением об ошибке.
-
-------
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-
-    [:octicons-arrow-left-24: Создание учётной записи](/access_register/register/)
-
-- <div class="card" style="text-align: right;">
-    
-    [Доступ без регистрации :octicons-arrow-right-24:](/access_register/guest_access/)
-
-</div></div></div>

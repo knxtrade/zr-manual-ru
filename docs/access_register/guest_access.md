@@ -18,17 +18,3 @@
 
 !!! Info "Информация"
     Доступ без регистрации предназначен для немедленного использования. Если вам нужен постоянный доступ, сохранение определённых настроек или использование расширенных функций, таких как голосовое управление, рекомендуется создать аккаунт или войти в существующую учётную запись.
-
-------
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-
-    [:octicons-arrow-left-24: Войти в систему](/access_register/login)
-
-- <div class="card" style="text-align: right;">
-    
-    [Сопряжение устройства :octicons-arrow-right-24:](/devices/device_pairing)
-
-</div></div></div>

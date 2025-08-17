@@ -117,17 +117,3 @@
 !!! Success "ZenVoice доступен на всех языках, поддерживаемых Yasmina"
     * Английский (GB, US, IN, AU)
     * Арабский (SA)
-
-------
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-
-    [:octicons-arrow-left-24: Типы устройств](/voice_control/device_types/)
-
-- <div class="card" style="text-align: right;">
-  
-    [Пользователь :octicons-arrow-right-24:](/user_config/user)
-
-</div></div></div>

@@ -76,17 +76,3 @@
     Когда этот процесс необходим, будет отображаться предупреждающее сообщение. Кроме того, затронутые устройства будут отмечены в списке значком предупреждения.
     
     Для сенсорных экранов с версиями ниже 3.6 этот процесс также будет необходим, но предупреждение отображаться не будет.
-
-------
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-
-    [:octicons-arrow-left-24: Различия физического устройства и дистанционного управления](/devices/device_vs_remote_control)
-
-- <div class="card" style="text-align: right;">
-  
-    [Типы устройств :octicons-arrow-right-24:](/voice_control/device_types)
-
-</div></div></div>

@@ -55,6 +55,6 @@
 
 - <div class="card" style="text-align: right;">
   
-    [В начало сайта:octicons-arrow-right-24:](/)
+    [В начало сайта :octicons-arrow-right-24:](/)
 
 </div></div></div>

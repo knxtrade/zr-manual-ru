@@ -60,17 +60,3 @@
 
 !!! Info "Информация"
     Изменения, внесённые в **«Настройки»**, применяются немедленно и сохраняются в будущих сеансах, если пользователь не изменит их снова.
-
-------
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-
-    [:octicons-arrow-left-24: Пользователь](/user_config/user/)
-
-- <div class="card" style="text-align: right;">
-  
-    [Помощь :octicons-arrow-right-24:](/help/)
-
-</div></div></div>

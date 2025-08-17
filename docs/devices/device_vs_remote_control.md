@@ -61,15 +61,3 @@
 ## Настройка
 
 - В модальном окне физического устройства регулятор яркости отображается как визуальный индикатор. Он не влияет на яркость мобильного устройства.
-
-------
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-    [:octicons-arrow-left-24: Push-уведомления](/devices/notification)
-    
-- <div class="card" style="text-align: right;">
-  [Голосовое управление :octicons-arrow-right-24:](/voice_control/device_management)
-
-</div></div></div>

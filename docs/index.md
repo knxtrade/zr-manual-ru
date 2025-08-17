@@ -30,18 +30,4 @@ links:
 
     Узнайте, как установить мобильное приложение на ваше устройство **iOS** или **Android**.
     
-    [Подробнее](/intro/install/)
-
----
-
-<div class="grid cards" markdown>
-
-- <div class="card" style="text-align: left;">
-
-    [:octicons-arrow-left-24: О приложении](/help/about/)
-
-- <div class="card" style="text-align: right;">
-    
-    [Установка :octicons-arrow-right-24:](/intro/install/)
-
-</div></div></div>
+    [Подробнее :octicons-arrow-right-24:](/intro/install/)
