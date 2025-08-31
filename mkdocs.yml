@@ -101,6 +101,10 @@ markdown_extensions:
       permalink: true
       permalink_title: Anchor link to this section for reference
 plugins:
+# эти три строки только для спонсоров проекта
+#  - privacy:
+#      links_attr_map:
+#        target: _blank
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
       lang:
